@@ -1,28 +1,28 @@
 {
     "shows": [{
             "id": 1,
-            "date": "11/23/2018",
+            "date": "11/23/18",
             "venue": "Double Door",
             "location": "Charlotte, NC",
             "url": "http://www.tickets.com"
         },
         {
             "id": 2,
-            "date": "11/23/2018",
+            "date": "11/23/18",
             "venue": "Double Door",
             "location": "Charlotte, NC",
             "url": "http://www.tickets.com"
         },
         {
             "id": 3,
-            "date": "11/23/2018",
+            "date": "11/23/18",
             "venue": "Double Door",
             "location": "Charlotte, NC",
             "url": "http://www.tickets.com"
         },
         {
             "id": 4,
-            "date": "11/23/2018",
+            "date": "11/23/18",
             "venue": "Double Door",
             "location": "Charlotte, NC",
             "url": "http://www.tickets.com"
